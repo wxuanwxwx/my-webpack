@@ -10,6 +10,8 @@
     "pack uniapp app:prod": "./bin/pack.js"
   },
   "dependencies": {
-    "commander": "^8.2.0"
+    "colors-console": "^1.0.3",
+    "commander": "^8.2.0",
+    "iconv-lite": "^0.6.3"
   }
 }
