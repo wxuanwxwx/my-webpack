@@ -1,0 +1,15 @@
+{
+  "name": "pack",
+  "version": "1.0.0",
+  "description": "wx",
+  "main": "index.js",
+  "author": "wx",
+  "license": "MIT",
+  "bin": {
+    "pack": "./bin/pack.js",
+    "pack uniapp app:prod": "./bin/pack.js"
+  },
+  "dependencies": {
+    "commander": "^8.2.0"
+  }
+}
