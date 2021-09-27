@@ -12,6 +12,9 @@
   "dependencies": {
     "colors-console": "^1.0.3",
     "commander": "^8.2.0",
-    "iconv-lite": "^0.6.3"
+    "encoding": "^0.1.13",
+    "iconv-lite": "^0.6.3",
+    "inquirer": "^8.1.5",
+    "node-notifier": "^10.0.0"
   }
 }
